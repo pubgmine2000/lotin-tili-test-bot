@@ -1,0 +1,45 @@
+{
+  "groups": [
+    "TestGuruh"
+  ],
+  "tests": [
+    {
+      "name": "Lotin",
+      "questions": [
+        {
+          "text": "Lorin sjdihe",
+          "variants": [
+            "A",
+            "B",
+            "C"
+          ],
+          "correct": "A",
+          "time": 5
+        },
+        {
+          "text": "Gdiahnd",
+          "variants": [
+            "A) dishsisjj",
+            "B)kekshskdi",
+            "C)kdkshskdk"
+          ],
+          "correct": "B)kekshskdi",
+          "time": 5
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "userId": 1905650495,
+      "chatId": 1905650495,
+      "group": "TestGuruh"
+    },
+    {
+      "userId": 256541251,
+      "chatId": 256541251,
+      "group": "TestGuruh"
+    }
+  ],
+  "results": []
+}
